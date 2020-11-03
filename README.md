@@ -3,6 +3,8 @@ Files and presentation for the meetup Data reporting with RMarkdown: from novice
 
 This repository stores .Rmd script, additional file, and presentation for the meetup on how to use RMarkdown for reports.
 
+To download the zipped folder together with this description you can press the green button "Clone or download" above.
+
 ## Description of the event
 This meetup will cover basic features of RMarkdown and a few tricks that may help to create professional analytical reports using data. RMarkdown is a markup language, which enables users to embed R code in the document, edit text and document styles, and render visual information. Documents created using RMarkdown can be exported in a variety of formats, including .docx and .pdf.
 
